@@ -4263,6 +4263,8 @@ iipdigital.usembassy.gov
 !##############General List End#################
 !###########Supplemental List Start#############
 !#############Supplemental List End#############
+||google.com
+||www.google.com
 !################Whitelist Start################
 @@||firebase-settings.crashlytics.com
 @@||cn.investing.com
